@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub! I'm a tech-enthusiastic, creative, and curious learner who loves discovering how technology can solve real-world challenges. My interests span software development, web applications, e-learning systems and I thrive on turning fresh ideas into practical solutions.
 
-Beyond my technical pursuits, I'm passionate about continuous learning, self-improvement, and sharing knowledge to help others understand technology more easily. I also bring a thoughtful and caring perspective into my conversations—whether it's about family, relationships, or personal growth.
+Beyond my technical pursuits, I'm passionate about continuous learning, self-improvement, and sharing knowledge to help others understand technology more easily. I also bring a thoughtful and caring perspective into my conversations whether it's about family, relationships, or personal growth.
 
 ---
 
