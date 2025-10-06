@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Brandie!
 
-Welcome to my GitHub! I'm a passionate [your role or title here — e.g., Frontend Developer, Data Analyst, etc.] who enjoys building [tools/apps/projects] that [brief purpose or impact].
+Welcome to my GitHub! I'm a tech-enthusiastic, creative, and curious learner who loves discovering how technology can solve real-world challenges. My interests span software development, web applications, e-learning systems and I thrive on turning fresh ideas into practical solutions.
+
+Beyond my technical pursuits, I'm passionate about continuous learning, self-improvement, and sharing knowledge to help others understand technology more easily. I also bring a thoughtful and caring perspective into my conversations—whether it's about family, relationships, or personal growth.
 
 ---
 
@@ -48,7 +50,6 @@ Here are a few things I've been working on:
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
 - 🌐 [Portfolio/Website](https://yourwebsite.com)
 
 > Feel free to reach out for collaboration, mentorship, or just to say hi!
